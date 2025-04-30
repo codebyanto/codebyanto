@@ -11,7 +11,7 @@ I love crafting intuitive apps, solving complex problems, and building seamless 
 
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/codebyanto](https://linkedin.com/in/codebyanto)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [codebyanto@gmail.com](mailto:codebyanto@gmail.com)
 
 ---
 
