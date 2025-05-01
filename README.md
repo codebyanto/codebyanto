@@ -8,6 +8,7 @@ I love crafting intuitive apps, solving complex problems, and building seamless 
 - 🌱 Learning more about Flutter, SwiftUI, and scalable app architectures.
 - 🛠️ Tools I use: Kotlin, Flutter, Swift, Firebase, AWS.
 - 🎯 Goal: Build apps that are not just functional, but delightful.
+- 🏎️ Hobbie: Sim Racing Driver & Kart Driver #40
 
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/codebyanto](https://linkedin.com/in/codebyanto)
